@@ -1,0 +1,85 @@
+
+#dis{
+  max-height: 100%;
+  max-width: 100%;
+  }
+
+
+.navbar-toggle{
+background-color:white;
+
+
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img
+    {
+      width: 100%;
+     margin: auto;
+    }
+
+
+
+     .thumbnail{
+      border-color: gold;
+            }
+      .navbar{
+        background-color:gold;
+        border-color: gold; 
+        border-radius: 0px; 
+
+      }
+    
+
+
+      #smallCor{
+        margin-top: 40px;
+      margin-left:2%;
+      width: 265px;
+
+      }
+
+      .icon-bar
+      { background-color: black;}
+      
+
+      #brand{
+
+        max-width:300%;
+        max-height: 300%;
+        }
+
+      .thumbnail img{
+
+        max-width: 100%;
+        max-height: 100%;
+      }
+
+#book{
+width: 100%;
+background-color: gold;
+font-size: 25px;
+
+}
+
+
+#log{
+  padding-top: 10%;
+  width: 30%;
+font-family: timesnewroman;
+font-size: 20px;
+}
+#login{
+text-align: center;
+font-weight: bolder;
+font-size: 50px;
+}
+
+.footer
+{
+background-color: black;
+color:white;
+text-align: center; 
+height:50px;
+width:1140px;
+position:;
+}
